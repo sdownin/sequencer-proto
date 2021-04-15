@@ -7,7 +7,7 @@
 
 | Stage | Version | Date | Download Link |
 | ----------- | ----------- | ----------- | ----------- |
-| MVP | 0.4.2 | 2020-06-24 | [SequenceR v0.4.2 2020-06-24](https://drive.google.com/file/d/1FYmnKIbPVZwyWdWPWWI5TLa1u4dG407n/view?usp=sharing, 'SequenceR v0.4.2') |
+| MVP | 0.4.3 | 2021-04-14 | [SequenceR v0.4.3 2021-04-14](https://drive.google.com/file/d/1G6Y9NVjebt3xUgllT1ZiekFnL9CIza5e/view?usp=sharing, 'SequenceR v0.4.3') |
 
 Archived Minor Versions
  - [v0.3.1 2019-12-04](https://drive.google.com/file/d/1xcJQGmt3eQMiv9LAodLvkmEsbiDc-75w/view?usp=sharing, 'SequenceR v0.3.1')
