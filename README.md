@@ -1,7 +1,10 @@
+(*Depracated*) SequenceR is under development at https://github.com/sdownin/sequencer 
+
+
 **SequenceR**  
 ==============
 
-(*Under Development*) User-Friendly Sequence Analysis in **R**
+User-Friendly Sequence Analysis in **R**
 
 ## Download
 
